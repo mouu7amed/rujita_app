@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543924472442",
+    "firebase_url": "https://rujita-556e6.firebaseio.com",
+    "project_id": "rujita-556e6",
+    "storage_bucket": "rujita-556e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543924472442:android:093a61cf35785e590a49c3",
+        "android_client_info": {
+          "package_name": "com.app.rujita_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543924472442-5o0balnget7sph382tphid75qfijtapd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4uZzcUVKHeIO1nxE_-T--0iWqYNz3tmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543924472442-5o0balnget7sph382tphid75qfijtapd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
